@@ -10,6 +10,9 @@ This is my first real JavaScript project and I really got a lot of insight as to
 - Adding adaptive features that give the user difficult questions when they solve easier questions correctly.
 
 - Adding share features to allow users share scores on their social media profiles.
+
+-Adding more quiz areas like HTML, CSS, Python etc.
+
 ## Deployment
 
 Not deploying this project as it was only for study and development purposes.
