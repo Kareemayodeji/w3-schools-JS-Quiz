@@ -3,7 +3,7 @@ A clone of the w3 schools JS Quiz using HTML, CSS and Javascript
 
 ## What did I learn?
 
-This is my first real JavaScript project and I really got a lot of insight as to how much could be achieved on such a little project. This project allowed me have a better understanding of defining and assigning variables, query selectors, if statements and, arrays. I also understand how to use comments effectively for proper documentation and easy navigation of the code. 
+I really got a lot of insight as to how much could be achieved on such a little project. This project allowed me have a better understanding of defining and assigning variables, query selectors, if statements and, arrays. I also understand how to use comments effectively for proper documentation and easy navigation of the code. 
 
 ## Potential Future Features
 
